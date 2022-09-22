@@ -1,0 +1,3 @@
+Hello World
+This is git training
+Git is a light weight
